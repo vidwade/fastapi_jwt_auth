@@ -26,7 +26,7 @@ A robust JWT authentication system built with FastAPI, featuring both symmetric 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fastapi_jwt_auth.git
+git clone https://github.com/vidwade/fastapi_jwt_auth.git
 cd fastapi_jwt_auth
 ```
 
